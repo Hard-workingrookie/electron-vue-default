@@ -99,7 +99,7 @@ npm run build
 
 
 ```
-#### 项目使用了axios+element-ui+vuex+vue-router+iconfont(阿里巴巴)
+
 
 # 打包
 直接使用npm run build就可以打包，若是要针对不同平台则按需添加参数，打包后的安装包在项目的build文件夹下
